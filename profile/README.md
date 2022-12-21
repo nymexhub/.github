@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-🙋‍♀️ Welcone to Nymex, Data Research
+🙋‍♀️ Welcone to Nymex, Data Research.
 
 👩‍💻 We create, we do research mainly, opensource proyects (you can sponsor us too! 😄 ⚡), and we're also a tech. start up org. online! check out our website : www.nymex-data.com / We're always somehow growing 🐧!. 
 
