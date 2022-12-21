@@ -3,10 +3,10 @@
 
 🙋‍♀️ Welcone to Nymex, Data Research
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+👩‍💻 We create, we do research mainly, opensource proyects, and we're also a tech. start up org. online! and growing 🐧!. 
 
-🍿 Fun facts - what does your team eat for breakfast?
+🍿 Fun facts - what does your team eat for breakfast? - We don't eat breackfast if we don't want to... we work anywhere, anytime ... we eat when we want! we sleep when we want! we support creativity anf focus in that way! like it? Wanna be part of us? 📫 write us!: info@nymexe-data.com or at f.alfonso@res-ear.ch 
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🧙 Remember, 😄 ⚡ 'Sucking at something is the first step to becoming sorta good at something' - Jake the dog. I love that phrase! It's true! 😄
 
 
