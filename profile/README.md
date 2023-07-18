@@ -4,7 +4,7 @@
 
 <details>
   <summary>Read about us ...</summary>
-  
+  <br>
   Nymex Data Research specializes in a wide range of areas including cutting-edge research, comprehensive big data analysis, innovative software development, open source solutions, and computer science engineering. Our multidisciplinary expertise enables us to tackle complex challenges and deliver impactful results in the field of data-driven technologies.
 
 With a strong emphasis on research, we delve into the depths of data to uncover valuable insights and drive evidence-based decision-making. Our team of skilled analysts and data scientists employ advanced methodologies and tools to extract meaningful patterns and trends from large and diverse datasets.
