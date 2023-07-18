@@ -22,6 +22,17 @@ Join us in our quest to unlock the true potential of data through groundbreaking
 
 👩‍💻 We are a team of passionate researchers and developers dedicated to creating open-source projects. If you're interested, you can also <a href="https://github.com/sponsors/NymexData" target="_blank">sponsor us</a> 😄⚡️. We're proud to be a tech startup organization making waves online! Check out our website at <a href="https://nymex-data.com" target="_blank">nymex-data.com</a>. We're always expanding and growing 🐧!
 
+<details>
+  <summary>Read about interpretation for the name of the company ...</summary>
+  <br>
+  Nymex Data Research represents a fusion of imaginative concepts that convey the essence of the organization. "Nymex" is derived from the combination of "Nymphaea," the scientific name for water lilies, and "exchange." Water lilies symbolize growth, transformation, and purity, while "exchange" signifies the dynamic nature of sharing and collaboration.
+
+In this context, Nymex represents the exchange and flow of ideas, knowledge, and data, reflecting the core values of the company. It symbolizes the continuous exploration and analysis of information in order to unlock valuable insights. As a data research company, we embrace the essence of Nymex by diving into the depths of data, uncovering hidden patterns, and cultivating growth through the exchange of knowledge.
+
+Together, "Nymex Data Research" encapsulates the spirit of this organization, embodying the pursuit of knowledge, innovation, and meaningful discoveries through the exploration and exchange of data.
+<br>
+</details>
+
 🍿 Fun fact: What does our team eat for breakfast? Well, the beauty of our flexible work culture is that we can eat whenever and wherever we want! We prioritize creativity and focus, so breakfast is optional. Like the sound of it? Want to join us? 📫 Get in touch via email at info@nymex-data.com or reach out to f.alfonso@res-ear.ch. You can also connect with me on GitHub: <a href="https://github.com/felipealfonsog" target="_blank">@felipealfonsog</a>.
 
 🧙 Remember, 😄⚡️ "Sucking at something is the first step to becoming sorta good at something" - Jake the dog. This phrase rings true for us! We embrace the learning process and believe that making mistakes is an essential part of growth 😄.
