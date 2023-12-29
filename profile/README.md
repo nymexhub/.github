@@ -39,6 +39,6 @@ Together, "Nymex Data Research" encapsulates the spirit of this organization, em
 🧙 Remember, 😄⚡️ "Sucking at something is the first step to becoming sorta good at something" - Jake the dog. This phrase rings true for us! We embrace the learning process and believe that making mistakes is an essential part of growth 😄.
 
 Let's collaborate, innovate, and make a positive impact together!
-
+<!--
 [![committers.top badge](https://org-badge.committers.top/chile/NymexData.svg)](https://org-badge.committers.top/chile/NymexData)
-
+-->
