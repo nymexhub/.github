@@ -47,6 +47,5 @@ Let's collaborate, innovate, and make a positive impact together!
 [![committers.top badge](https://org-badge.committers.top/chile/NymexData.svg)](https://org-badge.committers.top/chile/NymexData)
 
 <sub>*More information about the top committers in Chile [here](https://committers.top/chile).
-<br>
 
 </details>
