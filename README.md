@@ -1,1 +1,0 @@
-#### Nymex, Data Research
