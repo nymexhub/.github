@@ -1,6 +1,6 @@
 #### Hi there! 👋
 
-🙋‍♀️ Welcome to Nymex Data Research!
+🙋‍♂️ Welcome to Nymex Data Research!
 
 <details>
   <summary>Read about us ...</summary>
@@ -21,7 +21,7 @@ Join us in our quest to unlock the true potential of data through groundbreaking
 
 ✍️ In a concise summary, we proudly present ourselves as:
 
-👩‍💻 We are a team of passionate researchers and developers dedicated to creating open-source projects. If you're interested, you can also <a href="https://github.com/sponsors/NymexData" target="_blank">sponsor us</a> 😄⚡️. We're proud to be a tech startup organization making waves online! Check out our website at <a href="https://nymex-data.com" target="_blank">nymex-data.com</a>. We're always expanding and growing 🐧!
+👨‍💻 We are a team of passionate researchers and developers dedicated to creating open-source projects. If you're interested, you can also <a href="https://github.com/sponsors/NymexData" target="_blank">sponsor us</a> 😄⚡️. We're proud to be a tech startup organization making waves online! Check out our website at <a href="https://nymex-data.com" target="_blank">nymex-data.com</a>. We're always expanding and growing 🐧!
 <!--
 <details>
   <summary>Read about the interpretation for the name of the company ...</summary>
