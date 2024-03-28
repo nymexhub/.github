@@ -42,7 +42,7 @@ Together, "Nymex Data Research" encapsulates the spirit of this organization, em
 Let's collaborate, innovate, and make a positive impact together!
 
 <!-- 
-
+-->
 <details open>
 <summary>Committers.top rank in Chile*</summary> 
   <br>
@@ -54,4 +54,4 @@ Let's collaborate, innovate, and make a positive impact together!
 
 </details>
 
--->
+
