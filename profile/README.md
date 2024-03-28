@@ -41,6 +41,22 @@ Together, "Nymex Data Research" encapsulates the spirit of this organization, em
 
 Let's collaborate, innovate, and make a positive impact together!
 
+
+#### Latest Repository Update/Commit | Profile Views:
+
+[![__Last Update__](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat&logoColor=white&label=Last%20Update&color=yellow)](#) [![](https://komarev.com/ghpvc/?username=NymexData&style=flat&logoColor=white&color=yellow&label=Profile+Views*)](#)
+
+<!--
+![](https://komarev.com/ghpvc/?username=NymexData&style=flat&color=yellow)
+-->
+
+<sub>*Countdown initiated: 23/3/2024. Powered by [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter).</sub>
+
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<!-- ![Last Updated](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat-square) -->
+<!-- ![Last Updated](https://img.shields.io/badge/Last%20Updated-%F0%9F%93%85-blue) -->
+<!-- Last Updated: 2023-07-23 -->
+
 <!-- 
 
 <details open>
@@ -55,3 +71,7 @@ Let's collaborate, innovate, and make a positive impact together!
 </details>
 
 -->
+
+
+[![Vim Powered](https://img.shields.io/badge/Vim-Powered-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)](https://www.vim.org)
+
