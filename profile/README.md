@@ -42,7 +42,7 @@ Together, "Nymex Data Research" encapsulates the spirit of this organization, em
 Let's collaborate, innovate, and make a positive impact together!
 
 
-#### Latest Repository Update/Commit | Profile Views:
+##### Latest Repository Update/Commit | Profile Views:
 
 [![__Last Update__](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat&logoColor=white&label=Last%20Update&color=yellow)](#) [![](https://komarev.com/ghpvc/?username=NymexData&style=flat&logoColor=white&color=yellow&label=Profile+Views*)](#)
 
@@ -63,7 +63,6 @@ Let's collaborate, innovate, and make a positive impact together!
 <summary>Committers.top rank in Chile*</summary> 
   <br>
 
-  
 [![committers.top badge](https://org-badge.committers.top/chile/NymexData.svg)](https://org-badge.committers.top/chile/NymexData)
 
 <sub>*More information about the top committers in Chile [here](https://committers.top/chile).
@@ -72,6 +71,4 @@ Let's collaborate, innovate, and make a positive impact together!
 
 -->
 
-
 [![Vim Powered](https://img.shields.io/badge/Vim-Powered-%2311AB00.svg?style=plastic&logo=vim&logoColor=white)](https://www.vim.org)
-
