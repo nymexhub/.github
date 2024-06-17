@@ -43,8 +43,10 @@ Let's collaborate, innovate, and make a positive impact together!
 
 
 ##### Latest Repository Update/Commit | Profile Views:
-
-[![__Last Update__](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat&logoColor=white&label=Last%20Update&color=yellow)](#) [![](https://komarev.com/ghpvc/?username=NymexData&style=flat&logoColor=white&color=yellow&label=Profile+Views*)](#)
+<!--
+[![__Last Update__](https://img.shields.io/github/last-commit/felipealfonsog/felipealfonsog?style=flat&logoColor=white&label=Last%20Update&color=yellow)](#) -->
+[![__Last Update__](https://img.shields.io/badge/Last%20Updated-%F0%9F%93%85-yellow)](#)
+[![](https://komarev.com/ghpvc/?username=NymexData&style=flat&logoColor=white&color=yellow&label=Profile+Views*)](#)
 
 <!--
 ![](https://komarev.com/ghpvc/?username=NymexData&style=flat&color=yellow)
