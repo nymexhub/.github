@@ -24,7 +24,7 @@ Join us in our quest to unlock the true potential of technology through innovati
 👨‍💻 We are Nymex Ventures, a team of passionate researchers and developers dedicated to open-source projects and pioneering advancements in computer engineering, software engineering, data engineering, AI, and cybersecurity. Our mission is to drive innovation and make a lasting impact on the world of technology.
 
 If you're interested, you can also <a href="https://github.com/sponsors/NymexData" target="_blank">sponsor us</a> 😄⚡️. Check out our website at <a href="https://nymex-data.com" target="_blank">nymex-data.com</a>. We're always expanding and growing 🐧!
-
+<!--
 <details>
   <summary>Philosophy of the Collective: The Essence of Exchange and Growth</summary>
   <br>
@@ -37,7 +37,7 @@ Our collective thrives on the principles of exchange and collaboration. We are d
 In essence, our philosophy celebrates the exchange of ideas and the growth that emerges from collaborative efforts. It reflects our commitment to exploring new horizons, cultivating transformation, and embracing the purity of collective wisdom. Through this approach, we strive to achieve meaningful discoveries and make a positive impact, driven by the fundamental values of growth, collaboration, and the fluid exchange of knowledge.
 <br>
 </details>
-
+-->
 🚀 Awesome fact about us: What does our team eat for breakfast? Well, the beauty of our flexible work culture is that we can eat whenever and wherever we want! We prioritize creativity and focus, so breakfast is optional. Like the sound of it? Want to join us? 📫 Get in touch via email at info@nymex-data.com or reach out to f.alfonso@res-ear.ch. You can also connect with me on GitHub: <a href="https://github.com/felipealfonsog" target="_blank">@felipealfonsog</a>.
 
 🚀 An Insight into Our Culture: At Nymex Ventures, our flexible and dynamic work environment is at the heart of our innovative spirit. Here, freedom is key—our team members enjoy the liberty to work in ways that best inspire and energize them. This flexibility supports our core belief that innovation thrives when individuals are empowered to explore and collaborate without boundaries.
