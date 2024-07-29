@@ -38,7 +38,6 @@ In essence, our philosophy celebrates the exchange of ideas and the growth that 
 <br>
 </details>
 -->
-🚀 Awesome fact about us: What does our team eat for breakfast? Well, the beauty of our flexible work culture is that we can eat whenever and wherever we want! We prioritize creativity and focus, so breakfast is optional. Like the sound of it? Want to join us? 📫 Get in touch via email at info@nymex-data.com or reach out to f.alfonso@res-ear.ch. You can also connect with me on GitHub: <a href="https://github.com/felipealfonsog" target="_blank">@felipealfonsog</a>.
 
 🚀 An Insight into Our Culture: At Nymex Ventures, our flexible and dynamic work environment is at the heart of our innovative spirit. Here, freedom is key—our team members enjoy the liberty to work in ways that best inspire and energize them. This flexibility supports our core belief that innovation thrives when individuals are empowered to explore and collaborate without boundaries.
 
