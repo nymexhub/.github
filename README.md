@@ -1,4 +1,4 @@
-#### Nymex Data Research
+#### Nymex Open Hub
 
 Advancing Research & Development (R&D) and Engineering through state-of-the-art modeling and cutting-edge technologies.
 
