@@ -1,11 +1,11 @@
 #### Hi there! 👋
 
-🙋‍♂️ Welcome to Nymex Ventures' Leap into Open Source and Innovation.
+🙋‍♂️ Welcome to Nymex Open Hub' Leap into Open Source and Innovation.
 
 <details>
   <summary>Read about us ...</summary>
   <br>
-  We are Nymex Ventures, a group of dedicated professionals embarking on an exciting new journey, focusing on open-source development and cutting-edge technologies. Our commitment centers on computer engineering, software engineering, data engineering, AI, and cybersecurity.
+  We are Nymex Open Hub, a group of dedicated professionals embarking on an exciting new journey, focusing on open-source development and cutting-edge technologies. Our commitment centers on computer engineering, software engineering, data engineering, AI, and cybersecurity.
 
 Shifting from our commercial roots, our future lies in fostering innovation and contributing to the open-source community. By immersing ourselves in these critical fields, Nymex Ventures aims to become a beacon of knowledge and progress, shaping the future of technology in meaningful and impactful ways.
 
@@ -21,7 +21,7 @@ Join us in our quest to unlock the true potential of technology through innovati
 
 ✍️ In a concise summary, we proudly present ourselves as:
 
-👨‍💻 We are Nymex Ventures, a team of passionate computer science engineers, researchers and developers dedicated to open-source projects and pioneering advancements in computer engineering, software engineering, data engineering, AI, and cybersecurity. Our mission is to drive innovation and make a lasting impact on the world of technology.
+👨‍💻 We are Nymex Open Hub, a team of passionate computer science engineers, researchers and developers dedicated to open-source projects and pioneering advancements in computer engineering, software engineering, data engineering, AI, and cybersecurity. Our mission is to drive innovation and make a lasting impact on the world of technology.
 
 If you're interested, you can also <a href="https://github.com/sponsors/NymexData" target="_blank">sponsor us</a> 😄⚡️. Check out our website at <a href="https://nymex-data.com" target="_blank">nymex-data.com</a>. We're always expanding and growing 🐧!
 <!--
