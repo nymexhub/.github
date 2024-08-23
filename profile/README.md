@@ -43,7 +43,11 @@ In essence, our philosophy celebrates the exchange of ideas and the growth that 
 
 We value this freedom because it enables new ideas to continuously emerge and converge into exciting new projects. If you’re intrigued by the idea of being part of a group where creative freedom and collaborative energy drive progress, we’d love to hear from you!
 
+<!--
+
 📫 Connect with us via email at info@nymex-data.com. You can also connect with me directly on GitHub, where I lead the project: <a href="https://github.com/felipealfonsog" target="_blank">@felipealfonsog</a>.
+
+-->
 
 <!-- 
 🧙 Remember, 😄⚡️ "Sucking at something is the first step to becoming sorta good at something" - Jake the dog. This phrase rings true for us! We embrace the learning process and believe that making mistakes is an essential part of growth 😄.
