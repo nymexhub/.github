@@ -21,9 +21,7 @@ Join us in our quest to unlock the true potential of technology through innovati
 
 ✍️ In a concise summary, we proudly present ourselves as:
 
-👨‍💻 We are Nymex Open Hub, a team of passionate computer science engineers, researchers and developers dedicated to open-source projects and pioneering advancements in computer engineering, software engineering, data engineering, AI, and cybersecurity. Our mission is to drive innovation and make a lasting impact on the world of technology.
-
-If you're interested, you can also <a href="https://github.com/sponsors/NymexData" target="_blank">sponsor us</a> 😄⚡️. Check out our website at <a href="https://nymex-data.com" target="_blank">nymex-data.com</a>. We're always expanding and growing 🐧!
+👨‍💻 We are Nymex Open Hub, a team of passionate computer science engineers, researchers and developers dedicated to open-source projects and pioneering advancements in computer engineering, software engineering, data engineering, AI, and cybersecurity. Our mission is to drive innovation and make a lasting impact on the world of technology. If you're interested, you can also <a href="https://github.com/sponsors/nymexhub" target="_blank">sponsor us</a> 😄⚡️. If you want to connect, do with with the lead architect here: <a href="https://github.com/felipealfonsog" target="_blank">@felipealfonsog</a>. We're always expanding and growing 🐧!
 <!--
 <details>
   <summary>Philosophy of the Collective: The Essence of Exchange and Growth</summary>
