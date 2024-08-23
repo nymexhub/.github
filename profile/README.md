@@ -11,7 +11,7 @@ Shifting from our commercial roots, our future lies in fostering innovation and 
 
 This new direction represents a significant change in our mission and values. We believe that our dedication to open-source principles and advanced research will inspire others and drive technological advancements. Our path ahead is about making a lasting contribution to the world of engineering and beyond.
 
-At Nymex Ventures, we specialize in pioneering research to uncover valuable insights from data, developing robust and scalable software solutions, and ensuring the security and integrity of systems through advanced cybersecurity measures. Our team of experts excels in designing and implementing advanced algorithms, optimizing performance, and driving evidence-based decision-making with comprehensive big data analysis.
+At Nymex Open Hub, we specialize in pioneering research to uncover valuable insights from data, developing robust and scalable software solutions, and ensuring the security and integrity of systems through advanced cybersecurity measures. Our team of experts excels in designing and implementing advanced algorithms, optimizing performance, and driving evidence-based decision-making with comprehensive big data analysis.
 
 By actively engaging with the open-source community and sharing our work, we strive to advance the field of data research and foster a culture of innovation. Our mission is to advance technology and innovation through open-source development, cutting-edge research, and a strong commitment to cybersecurity. Our vision is to be a leader in the open-source community, driving progress and inspiring others to make lasting contributions to the world of engineering and technology.
 
